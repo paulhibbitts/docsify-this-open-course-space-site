@@ -1,0 +1,4 @@
+- [Schedule](schedule.md)
+- [Resources](resources.md)
+- [Syllabus](syllabus.md)
+- [Contact](contact.md)
