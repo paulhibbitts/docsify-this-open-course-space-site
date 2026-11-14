@@ -8,11 +8,13 @@ header_image_alt_text: 'Dampening and inking the plate'
 -->
 
 <!-- grav:gen -->
+# Module 11
+
 ![Dampening and inking the plate](images/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
 
 <small>Photo: [Pat Armstrong, Flickr.com](https://www.flickr.com/photos/poisontofu/4762082009/)</small>
 
-# What are the essentials of effective visual communication?
+## What are the essentials of effective visual communication? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **What are the essentials of effective visual communication?** -->

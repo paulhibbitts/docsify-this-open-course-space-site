@@ -8,11 +8,13 @@ header_image_alt_text: 'Bullseye'
 -->
 
 <!-- grav:gen -->
+# Module 3
+
 ![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
 
 <small>Photo: [Emilio Küffer, Flickr.com](https://www.flickr.com/photos/emiliokuffer/6384294717/)</small>
 
-# How to make more strategic design decisions?
+## How to make more strategic design decisions? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **How to make more strategic design decisions?** -->

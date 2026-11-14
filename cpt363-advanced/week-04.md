@@ -10,11 +10,11 @@ header_image_alt_text: 'Paper-based prototype'
 -->
 
 <!-- grav:gen -->
+# Week 4 (May 30 - Jun 5)
+
 ![Paper-based prototype](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
 <small>Photo: [Samuel Mann, Flickr.com](https://www.flickr.com/photos/21218849@N03/6968244538/)</small>
-
-# Week 4 (May 30 - Jun 5)
 <!-- /grav:gen -->
 
 ## How to explore and communicate possible design solutions?

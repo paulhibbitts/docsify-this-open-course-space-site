@@ -6,7 +6,9 @@ badge_color: green
 -->
 
 <!-- grav:gen -->
-# Welcome to CPT-363 User Interface Design 👋🏼
+# Welcome
+
+## Welcome to CPT-363 User Interface Design 👋🏼 <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed: ![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg?cropZoom=800,300) -->

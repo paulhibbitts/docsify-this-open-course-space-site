@@ -8,11 +8,13 @@ header_image_alt_text: 'Usability testing'
 -->
 
 <!-- grav:gen -->
+# Module 5
+
 ![Usability testing](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 <small>Photo: [Luca Mascaro, Flickr.com](https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/)</small>
 
-# How to plan, conduct, and summarize usability tests?
+## How to plan, conduct, and summarize usability tests? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **How to plan, conduct, and summarize usability tests?** -->

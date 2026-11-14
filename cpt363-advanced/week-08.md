@@ -10,11 +10,11 @@ header_image_alt_text: 'Interview in coffee shop'
 -->
 
 <!-- grav:gen -->
+# Week 8 (Jun 27 - Jul 3)
+
 ![Interview in coffee shop](images/13966760787_2d0975e6bc_k.jpg ':class=banner-image')
 
 <small>Photo: [Nicholas Wang, Flickr.com](https://www.flickr.com/photos/cloneofsnake/13966760787/)</small>
-
-# Week 8 (Jun 27 - Jul 3)
 <!-- /grav:gen -->
 
 ## How to understand and communicate people's needs and behaviours?

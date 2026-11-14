@@ -10,11 +10,11 @@ header_image_alt_text: 'Complex sound mixer'
 -->
 
 <!-- grav:gen -->
+# Week 10 (Jul 11 - 17)
+
 ![Complex sound mixer](images/6192507935_3c435c6d94_b.jpg ':class=banner-image')
 
 <small>Photo: [Matt Cottam, Flickr.com](https://www.flickr.com/photos/mattcottam/6192507935/)</small>
-
-# Week 10 (Jul 11 - 17)
 <!-- /grav:gen -->
 
 ## How to design products for how people think, learn and feel?

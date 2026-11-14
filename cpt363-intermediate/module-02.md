@@ -8,11 +8,13 @@ header_image_alt_text: 'Information architecture'
 -->
 
 <!-- grav:gen -->
+# Module 2
+
 ![Information architecture](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
 <small>Photo: [CannedTuna, Flickr.com](https://www.flickr.com/photos/cannedtuna/4853380320/)</small>
 
-# What does a holistic user experience design process look like?
+## What does a holistic user experience design process look like? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **What does a holistic user experience design process look like?** -->

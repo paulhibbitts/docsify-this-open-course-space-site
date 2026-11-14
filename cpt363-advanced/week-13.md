@@ -10,11 +10,11 @@ header_image_alt_text: 'SFU Djavad Mowafaghian Courtyard'
 -->
 
 <!-- grav:gen -->
+# Week 13 (Aug 1)
+
 ![SFU Djavad Mowafaghian Courtyard](images/35899263465_e2f708c950_k.jpg ':class=banner-image')
 
 <small>Photo: [Claudia Guajardo-Yeo, Flickr.com](https://www.flickr.com/photos/athenacgy/35899263465/)</small>
-
-# Week 13 (Aug 1)
 <!-- /grav:gen -->
 
 ## Course Wrap-up

@@ -8,11 +8,13 @@ header_image_alt_text: 'SFU Djavad Mowafaghian Courtyard'
 -->
 
 <!-- grav:gen -->
+# Module 13
+
 ![SFU Djavad Mowafaghian Courtyard](images/35899263465_e2f708c950_k.jpg ':class=banner-image')
 
 <small>Photo: [Claudia Guajardo-Yeo, Flickr.com](https://www.flickr.com/photos/athenacgy/35899263465/)</small>
 
-# What can we learn from UX practitioners?
+## What can we learn from UX practitioners? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 A guest speaker shares how they use UX methods in their day-to-day work.

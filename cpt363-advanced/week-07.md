@@ -10,11 +10,11 @@ header_image_alt_text: 'iOS family of devices pile (2015)'
 -->
 
 <!-- grav:gen -->
+# Week 7 (Jun 20 - 26)
+
 ![iOS family of devices pile (2015)](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 <small>Photo: [Blake Patterson, Flickr.com](https://www.flickr.com/photos/blakespot/16230041026/)</small>
-
-# Week 7 (Jun 20 - 26)
 <!-- /grav:gen -->
 
 ## How to design for mobile and multi-device usage?

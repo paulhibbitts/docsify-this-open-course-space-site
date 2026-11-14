@@ -10,11 +10,11 @@ header_image_alt_text: 'Dampening and inking the plate'
 -->
 
 <!-- grav:gen -->
+# Week 11 (Jul 18 - 24)
+
 ![Dampening and inking the plate](images/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
 
 <small>Photo: [Pat Armstrong, Flickr.com](https://www.flickr.com/photos/poisontofu/4762082009/)</small>
-
-# Week 11 (Jul 18 - 24)
 <!-- /grav:gen -->
 
 ## What are the essentials of effective visual communication?  

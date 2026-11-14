@@ -8,11 +8,13 @@ header_image_alt_text: 'Interview in coffee shop'
 -->
 
 <!-- grav:gen -->
+# Module 8
+
 ![Interview in coffee shop](images/13966760787_2d0975e6bc_k.jpg ':class=banner-image')
 
 <small>Photo: [Nicholas Wang, Flickr.com](https://www.flickr.com/photos/cloneofsnake/13966760787/)</small>
 
-# How to understand and communicate people's needs and behaviours?
+## How to understand and communicate people's needs and behaviours? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **How to understand and communicate people's needs and behaviours?** -->

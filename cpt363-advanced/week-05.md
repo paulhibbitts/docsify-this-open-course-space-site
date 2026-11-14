@@ -10,11 +10,11 @@ header_image_alt_text: 'Usability testing'
 -->
 
 <!-- grav:gen -->
+# Week 5 (Jun 6 - 12)
+
 ![Usability testing](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
 <small>Photo: [Luca Mascaro, Flickr.com](https://www.flickr.com/photos/lucamascaro/4642289926/in/album-72157624141181008/)</small>
-
-# Week 5 (Jun 6 - 12)
 <!-- /grav:gen -->
 
 ## How to plan, conduct, and summarize usability tests?  

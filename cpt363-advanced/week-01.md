@@ -11,11 +11,11 @@ hide_git_sync_repo_link: true
 -->
 
 <!-- grav:gen -->
+# Week 1 (May 9 - 15)
+
 ![SFU Academic Quadrangle](images/10610701655_c57e2dc536_o.jpg ':class=banner-image')
 
 <small>Photo: [Julian Schüngel, Flickr.com](https://www.flickr.com/photos/medevac71/10610701655/)</small>
-
-# Week 1 (May 9 - 15)
 <!-- /grav:gen -->
 
 ## What is usability and user experience design?

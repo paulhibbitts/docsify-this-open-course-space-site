@@ -18,7 +18,7 @@ child_type: item
 -->
 
 <!-- grav:gen -->
-**CPT363-3**
+**[CPT363-3](cpt363-advanced/home.md)**
 <!-- /grav:gen -->
 
 - [Week 1 (May 9 - 15)](cpt363-advanced/week-01.md)

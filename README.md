@@ -1,10 +1,10 @@
 # Open Course Space – Converted to Docsify-This
 
-> The three example courses from the [Grav Open Course Space skeleton](https://github.com/hibbitts-design/grav-skeleton-open-course-space), converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Course Space Converter](https://open-publishing-course-hub-converter.hibbittsdesign.org).
+> The three example courses from the [Grav Open Course Space skeleton](https://github.com/hibbitts-design/grav-skeleton-open-course-space), converted to plain Markdown pages for [Docsify-This](https://docsify-this.net/#/) by the [Open Publishing Course Space Converter](https://open-publishing-course-space-converter.hibbittsdesign.org).
 
-View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&loadFooter=_footer.md&pagination=true&searchbox=true&name=Open%20Course%20Space
+View it as a website: https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/docsify-this-open-course-space-site/main&homepage=home.md&sidebar=true&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&pagination=true&searchbox=true&name=Open%20Course%20Space
 
-These pages are the converter's output as it is, shown like the courses in Open Course Space: the home page is the Courses page, with a card for each course, and each course is in a folder of its own, laid out like the [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit). A course's home page starts with its header image and name, the sidebar lists its modules (or weeks) and LMS links, the navbar has its course pages and a link back to All Courses, and Previous/Next buttons follow the modules in order.
+These pages are the converter's output as it is, shown like the courses in Open Course Space: the home page is the Courses page, with a card for each course, and each course is in a folder of its own, laid out like the [Docsify Open Course Starter Kit](https://github.com/hibbitts-design/docsify-open-course-starter-kit). A course's home page starts with its header image and name, a module's page with its title and header image, the sidebar starts with the course's name (a link back to its home page) and lists its modules (or weeks) and LMS links, the navbar has its course pages and a link back to All Courses, and Previous/Next buttons follow the modules in order.
 
 The original courses are built with Grav Open Course Space at https://demo.hibbittsdesign.org/grav-open-course-space – this version uses the same content (CPT363-2 and CPT363-3 were switched on for the conversion):
 

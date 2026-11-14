@@ -5,7 +5,7 @@ description: 'Below are the modules available for this course.'
 -->
 
 <!-- grav:gen -->
-**CPT363-1**
+**[CPT363-1](cpt363-basic/home.md)**
 <!-- /grav:gen -->
 
 - [Welcome](cpt363-basic/welcome.md)

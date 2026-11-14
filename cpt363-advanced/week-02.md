@@ -10,11 +10,11 @@ header_image_alt_text: 'Information architecture'
 -->
 
 <!-- grav:gen -->
+# Week 2 (May 16 - 22)
+
 ![Information architecture](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
 <small>Photo: [CannedTuna, Flickr.com](https://www.flickr.com/photos/cannedtuna/4853380320/)</small>
-
-# Week 2 (May 16 - 22)
 <!-- /grav:gen -->
 
 ## What does a holistic user experience design process look like?

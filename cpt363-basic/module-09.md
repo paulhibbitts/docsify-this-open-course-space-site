@@ -8,11 +8,13 @@ header_image_alt_text: 'A sample UX questionnaire'
 -->
 
 <!-- grav:gen -->
+# Module 9
+
 ![A sample UX questionnaire](images/9203760174_499895dece_k.jpg ':class=banner-image')
 
 <small>Photo: [Rosenfeld Media, Flickr.com](https://www.flickr.com/photos/rosenfeldmedia/9203760174/)</small>
 
-# How to review and refine your user research findings?
+## How to review and refine your user research findings? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 Meet with the instructor (times TBD) to review your project's user research findings and plan your next steps – there is no regular class this module.

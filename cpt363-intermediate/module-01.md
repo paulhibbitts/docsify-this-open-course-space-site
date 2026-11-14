@@ -8,11 +8,13 @@ header_image_creditlink: 'https://www.flickr.com/photos/medevac71/10610701655/'
 -->
 
 <!-- grav:gen -->
+# Module 1
+
 ![SFU Academic Quadrangle](images/10610701655_c57e2dc536_o.jpg ':class=banner-image')
 
 <small>Photo: [Julian Schüngel, Flickr.com](https://www.flickr.com/photos/medevac71/10610701655/)</small>
 
-# What is usability and user experience design?
+## What is usability and user experience design? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **What is usability and user experience design?** -->

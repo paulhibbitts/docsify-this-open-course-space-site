@@ -10,11 +10,11 @@ header_image_alt_text: 'Bullseye'
 -->
 
 <!-- grav:gen -->
+# Week 3 (May 23 - 29)
+
 ![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
 
 <small>Photo: [Emilio Küffer, Flickr.com](https://www.flickr.com/photos/emiliokuffer/6384294717/)</small>
-
-# Week 3 (May 23 - 29)
 <!-- /grav:gen -->
 
 ## How to make more strategic design decisions?  

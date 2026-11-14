@@ -10,11 +10,11 @@ header_image_alt_text: 'The Pay and Go box at the new North Oshawa medical clini
 -->
 
 <!-- grav:gen -->
+# Week 6 (Jun 13 - 19)
+
 ![The Pay and Go box at the new North Oshawa medical clinic](images/2760207306_21ac555261_b.jpg ':class=banner-image')
 
 <small>Photo: [Rick Dolishny, Flickr.com](https://www.flickr.com/photos/rdolishny/2760207306/)</small>
-
-# Week 6 (Jun 13 - 19)
 <!-- /grav:gen -->
 
 ## How to conduct a usability inspection?   

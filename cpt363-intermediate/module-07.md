@@ -8,11 +8,13 @@ header_image_alt_text: 'iOS family of devices pile (2015)'
 -->
 
 <!-- grav:gen -->
+# Module 7
+
 ![iOS family of devices pile (2015)](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 <small>Photo: [Blake Patterson, Flickr.com](https://www.flickr.com/photos/blakespot/16230041026/)</small>
 
-# How to design for mobile and multi-device usage?
+## How to design for mobile and multi-device usage? <!-- {docsify-ignore} -->
 <!-- /grav:gen -->
 
 <!-- grav-embed-line-headings-up: ## **How to design for mobile and multi-device usage?** -->
