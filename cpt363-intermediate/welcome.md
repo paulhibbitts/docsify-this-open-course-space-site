@@ -1,4 +1,4 @@
-<!-- grav: {"file":"02.modules/01.welcome/course-page.md","images":["belinda-fewings-6wAGwpsXHE0-unsplash.jpg"],"links":[["syllabus.md","../../syllabus"],["home.md","../../modules"],["schedule.md","../../schedule"]]}
+<!-- grav: {"file":"03.modules/01.welcome/course-page.md","images":["belinda-fewings-6wAGwpsXHE0-unsplash.jpg"],"links":[["syllabus.md","../../syllabus"],["home.md","../../modules"],["schedule.md","../../schedule"],["topics.md","../../topics"]]}
 title: Welcome
 description: 'Welcome to CPT-363 User Interface Design 👋🏼'
 badge_label: 'Start here'
@@ -34,9 +34,10 @@ Is this your first online course? If so, you might find these articles of help:
 
 ### Things To Do
 
-1. Review the [Course Syllabus](syllabus.md) and note key dates.
-2. Look at the first [Module](home.md) before our first class.
-3. Explore the weekly [Schedule](schedule.md) to see upcoming topics and readings.
+1. Review the [Course Syllabus](cpt363-intermediate/syllabus.md) and note key dates.
+2. Look at the first [Module](cpt363-intermediate/home.md) before our first class.
+3. Explore the weekly [Schedule](cpt363-intermediate/schedule.md) to see upcoming topics and readings.
+4. Browse the [Topics](cpt363-intermediate/topics.md) page to see which week covers each topic.
 
 ### Introductory Reading
 

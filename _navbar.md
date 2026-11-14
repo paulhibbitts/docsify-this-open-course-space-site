@@ -1,4 +1,1 @@
-- [Schedule](schedule.md)
-- [Resources](resources.md)
-- [Syllabus](syllabus.md)
-- [Contact](contact.md)
+<!-- No navbar on the Courses page: each course folder has its own _navbar.md -->

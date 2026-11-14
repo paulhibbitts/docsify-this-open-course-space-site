@@ -1,0 +1,6 @@
+- [All Courses](#/)
+- [Schedule](cpt363-advanced/schedule.md)
+- [Topics](cpt363-advanced/topics.md)
+- [Resources](cpt363-advanced/resources.md)
+- [Syllabus](cpt363-advanced/syllabus.md)
+- [Contact](cpt363-advanced/contact.md)
