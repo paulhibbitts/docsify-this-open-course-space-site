@@ -1,3 +1,4 @@
+- [CPT363-1](cpt363-basic/home.md ":class=site-title")
 - [All Courses](home.md)
 - [Schedule](cpt363-basic/schedule.md)
 - [Resources](cpt363-basic/resources.md)

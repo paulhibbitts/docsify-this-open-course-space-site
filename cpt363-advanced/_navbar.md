@@ -1,3 +1,4 @@
+- [CPT363-3](cpt363-advanced/home.md ":class=site-title")
 - [All Courses](home.md)
 - [Schedule](cpt363-advanced/schedule.md)
 - [Topics](cpt363-advanced/topics.md)

@@ -1,3 +1,4 @@
+- [CPT363-2](cpt363-intermediate/home.md ":class=site-title")
 - [All Courses](home.md)
 - [Schedule](cpt363-intermediate/schedule.md)
 - [Topics](cpt363-intermediate/topics.md)

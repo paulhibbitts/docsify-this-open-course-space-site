@@ -22,3 +22,9 @@ description: 'Below are the modules available for this course.'
 - [Module 11](cpt363-intermediate/module-11.md)
 - [Module 12](cpt363-intermediate/module-12.md)
 - [Module 13](cpt363-intermediate/module-13.md)
+- **Canvas LMS**
+  - [![Calendar Icon](https://api.iconify.design/fa/calendar.svg?height=16&color=%23808080)Calendar](https://canvas.sfu.ca/calendar)
+  - [![Assignments Icon](https://api.iconify.design/fa/pencil.svg?height=16&color=%23808080)Assignments](https://canvas.sfu.ca/courses/55288/assignments)
+  - [![Quizzes Icon](https://api.iconify.design/fa/check-circle.svg?height=16&color=%23808080)Quizzes](https://canvas.sfu.ca/courses/55288/quizzes)
+  - [![Class Discussions Icon](https://api.iconify.design/fa/comments-o.svg?height=16&color=%23808080)Class Discussions](https://canvas.sfu.ca/courses/55288/discussion_topics)
+  - [![Syllabus Icon](https://api.iconify.design/fa/list-ul.svg?height=16&color=%23808080)Syllabus](https://canvas.sfu.ca/courses/55288/syllabus)
