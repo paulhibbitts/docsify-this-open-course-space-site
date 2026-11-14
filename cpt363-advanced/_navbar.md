@@ -1,4 +1,4 @@
-- [All Courses](#/)
+- [All Courses](home.md)
 - [Schedule](cpt363-advanced/schedule.md)
 - [Topics](cpt363-advanced/topics.md)
 - [Resources](cpt363-advanced/resources.md)

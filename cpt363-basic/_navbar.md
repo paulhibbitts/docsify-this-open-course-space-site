@@ -1,4 +1,4 @@
-- [All Courses](#/)
+- [All Courses](home.md)
 - [Schedule](cpt363-basic/schedule.md)
 - [Resources](cpt363-basic/resources.md)
 - [Syllabus](cpt363-basic/syllabus.md)

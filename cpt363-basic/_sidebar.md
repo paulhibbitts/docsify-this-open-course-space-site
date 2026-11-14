@@ -4,6 +4,10 @@ published: true
 description: 'Below are the modules available for this course.'
 -->
 
+<!-- grav:gen -->
+**CPT363-1**
+<!-- /grav:gen -->
+
 - [Welcome](cpt363-basic/welcome.md)
 - [Module 1](cpt363-basic/module-01.md)
 - [Module 2](cpt363-basic/module-02.md)
